@@ -1,0 +1,25 @@
+Link do drive exclusivo:
+
+https://drive.google.com/drive/folders/1Fpksm8HDg3QZCCoRfeGwMEpXCzDJapr-?usp=sharing
+
+Links Fabricantes:
+
+https://www.virtualbox.org/wiki/Downloads
+
+https://anaconda.org/anaconda/python
+
+https://mobaxterm.mobatek.net/download.html
+
+https://spark.apache.org/downloads.html
+
+https://github.com/bmatzelle/gow/downloads
+
+https://github.com/steveloughran/winutils/tree/master/hadoop-2.7.1/bin
+
+https://www.win-rar.com/download.html?&L=0
+
+https://notepad-plus-plus.org/download/v7.5.4.html
+
+https://www.microsoft.com/pt-br/download/details.aspx?id=353
+
+http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html
